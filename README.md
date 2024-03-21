@@ -4,7 +4,6 @@ My name is Tygo but for most people it's easier to use my username Methane Ocean
 #### A few things about me:
 - I'm currently studying CMGT at Saxion
 - I have a hard time organizing and sticking to my projects
-- Currently learning to programm C\# and processing
 
 <!--
 **MethaneOceans/MethaneOceans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
