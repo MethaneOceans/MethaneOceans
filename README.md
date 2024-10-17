@@ -1,8 +1,10 @@
-### Hi there 👋
-My name is Tygo but for most people it's easier to use my username Methane Oceans.
+### Hi there
+- I'm a random person that goes by Methane Oceans online.
 
 #### A few things about me:
-- I have a hard time organizing and sticking to my projects
+- I like to learn about graphics
+- I like to try and learn some random stuff and use it in a project.
+- I have no clue what else to say.
 
 <!--
 **MethaneOceans/MethaneOceans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
