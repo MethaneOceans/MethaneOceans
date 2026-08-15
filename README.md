@@ -1,11 +1,3 @@
-### Hi there
-- I'm a random person that goes by Methane Oceans online.
-
-#### A few things about me:
-- I like to learn about graphics
-- I like to try and learn some random stuff and use it in a project.
-- I have no clue what else to say.
-
 <!--
 **MethaneOceans/MethaneOceans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
